@@ -15,10 +15,12 @@
 ## 💡 **About Me**
 <div>
 
-🔹 **Software Engineer | Tech Enthusiast | Data Engineer**  
-🔹 Experienced in **Full-Stack Development, AI/ML, and Cloud Computing**  
-🔹 **Fun Fact:** *"The best part of the journey is... it ends."*  
-🔹 **Hobbies:** Gaining Knowledge 🧠 | Listining Music 🎧 | Archery 🏹  
+🔹 <b>Aspiring Machine Learning Engineer | Python Developer | AI Enthusiast</b><br>
+🔹 Hands-on experience with ML Pipelines, Model Optimization, and Workflow Automation<br>
+🔹 Built projects using TensorFlow, PyTorch, Jupyter Notebook, and Docker<br>
+🔹 Passionate about turning data into real-world intelligent solutions<br>
+🔹 <b>Fun Fact:</b> "Still learning, still building, still improving every day."<br>
+🔹 <b>Hobbies:</b> Gaining Knowledge 🧠 | Listening to Music 🎧 | Archery 🏹
 
 </div>
 
@@ -26,11 +28,13 @@
 
 ---
 
-## 💬 **Ask Me About**
-💡 Full-Stack Development (React, Express, MongoDB, Flask)  
-💡 AI/ML (TensorFlow, LLMs, Computer Vision)  
-💡 Cloud & DevOps (AWS, Docker, Terraform, Kubernetes)  
-💡 Hackathon Strategies  
+## 💬 Ask Me About
+
+💡 Machine Learning & Deep Learning (TensorFlow, PyTorch, Scikit-learn)  
+💡 Python Development & Workflow Automation (n8n, Docker, APIs)  
+💡 Computer Vision & AI Applications  
+💡 Data Processing, Model Optimization, and ML Pipelines  
+💡 Building Real-World Intelligent Systems & Automation Projects
 
 ---
 
